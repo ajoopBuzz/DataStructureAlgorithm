@@ -8,7 +8,7 @@ public class SortingPr {
 		//System.out.println("Min Number in the list: "+findMin(arrayOfNumbers));
 		System.out.print("Sorted List: ");
 		for(int i=0;i<arrayOfNumbers.length;i++) {
-			System.out.print((arrayOfNumbers[i])+" ");
+			System.out.print((arrayOfNumbers[i])+" , ");
 		}
 	}
 	public static void BubbleSort(int[] arrayOfNumbers) {
